@@ -11,3 +11,8 @@ WEEK_LIMIT = 4
 
 # Weekdays
 WEEK_DAYS = ['월', '화', '수', '목', '금', '토', '일']
+
+# Excel Worksheet
+STRING_NAME = '귀하의 성명을'
+STRING_ID = '귀하의 학번을'
+STRING_TIME = '희망 근무일 및 시간대'
