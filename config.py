@@ -1,6 +1,6 @@
 # Penalties
 PENALTY_REGTIME = 0.001
-PENALTY_ONCE = 0.5
+PENALTY_ONCE = 0.2
 PENALTY_FOUR = 100
 
 # Times per day
